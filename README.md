@@ -24,7 +24,7 @@
         🔭 Currently working with <strong>Spring Boot (Java)</strong> & <strong>JavaScript / Node.js</strong><br><br>
         🌱 Exploring <strong>Python, Machine Learning, Rust & Go</strong><br><br>
         🤝 Open to collaborations and interesting projects<br><br>
-        📫 Reach me at <a href="mailto:contact@example.com">email</a>
+        📫 Reach me at <a href="mailto:srirambadisa1938@gmail.com">srirambadisa1938@gmail.com</a>
       </p>
     </td>
   </tr>
@@ -125,11 +125,14 @@
   <a href="https://github.com/srirambadisa">
     <img src="https://img.shields.io/badge/GitHub-srirambadisa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/sriram1938/">
+    <img src="https://img.shields.io/badge/LinkedIn-sriram1938-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://www.instagram.com/srirambadisa">
     <img src="https://img.shields.io/badge/Instagram-srirambadisa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:contact@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:srirambadisa1938@gmail.com">
+    <img src="https://img.shields.io/badge/Email-srirambadisa1938-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
