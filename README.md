@@ -1,154 +1,95 @@
-<h1 align="center">
-  <a href="https://github.com/srirambadisa">
-    <img src="https://media.giphy.com/media/hvRJCLljs8lvfF3PAd/giphy.gif" width="30px">
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm Sriram Badisa</h1>
+<p align="center"><strong>Full-Stack Developer · MERN · Spring Boot</strong></p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B+I'm+Sriram;MERN+Stack+Developer;Spring+Boot+%7C+Java+Developer;Open+Source+Enthusiast&center=true&width=600&height=80&duration=4000&pause=1000&color=58a6ff&vCenter=true&multiline=true&font=Fira+Code&size=24" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+useful+web+experiences;Java+%2B+JavaScript+full-stack+developer;Learning%2C+building%2C+and+improving+every+day)](https://git.io/typing-svg)
 
-<!-- About Me -->
-<h3 align="center">>About Me</h3>
+![Location](https://img.shields.io/badge/Hyderabad-India-0969DA?style=flat-square&logo=googlemaps&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-1F6FEB?style=flat-square&logo=codeforces&logoColor=white)
+![Open to](https://img.shields.io/badge/Open%20to-Collaboration-54AEFF?style=flat-square&logo=handshake&logoColor=white)
 
-<table align="center">
-  <tr>
-    <td>
-      <p align="center">
-        💭 <em>Be Positive</em><br><br>
-        🎓 MERN Stack Developer based in <strong>Hyderabad, India</strong><br><br>
-        🔭 Currently working with <strong>Spring Boot (Java)</strong> & <strong>JavaScript / Node.js</strong><br><br>
-        🌱 Exploring <strong>Python, Machine Learning, Rust & Go</strong><br><br>
-        🤝 Open to collaborations and interesting projects<br><br>
-        📫 Reach me at <a href="mailto:srirambadisa1938@gmail.com">srirambadisa1938@gmail.com</a>
-      </p>
-    </td>
-  </tr>
-</table>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=flat-square&logo=google-maps" alt="Location" />
-  <img src="https://img.shields.io/badge/Role-Software%20Developer-9cf?style=flat-square&logo=briefcase" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Dev-success?style=flat-square&logo=code" alt="Focus" />
-</p>
+## 👨‍💻 About Me
 
-<br>
+> “Be positive, stay curious, and keep building.”
 
-<!-- Tech Stack -->
-<h3 align="center">🛠️ Tech Stack</h3>
+- 🚀 Full-stack developer working across **MERN** and **Spring Boot** ecosystems
+- 🔭 Currently building with **Java, Spring Boot, JavaScript, Node.js, and React**
+- 🌱 Expanding my skills in **Python, Machine Learning, Rust, and Go**
+- 🤝 Open to meaningful collaborations and interesting engineering challenges
+- 📍 Based in **Hyderabad, India**
 
-<p align="center">
-  <strong>Web Development</strong><br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb&theme=dark&perline=8" alt="Web Dev" />
-</p>
+## 🧰 Technology Toolbox
 
-<p align="center">
-  <strong>Languages & Frameworks</strong><br>
-  <img src="https://skillicons.dev/icons?i=java,spring,springboot,python,c,cpp,rust,go&theme=dark&perline=8" alt="Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Tools & Platforms</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,docker&theme=dark&perline=8" alt="Tools" />
-</p>
+### Frontend
 
-<br>
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=54AEFF)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=54AEFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=54AEFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=54AEFF)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=54AEFF)
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
+### Backend & Databases
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api?username=srirambadisa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&line_height=28&card_width=460" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=srirambadisa&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=460&size_weight=1&count_weight=0" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p>
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=54AEFF)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=54AEFF)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=54AEFF)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=54AEFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=54AEFF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=54AEFF)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=srirambadisa&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=FF6B35&currStreakLabel=Current%20Streak&sideLabels=Total%20%7C%20Longest&date_format=M%20j%5B%2C%20Y%5D&card_width=460" alt="GitHub Streak" />
-</p>
+### Tools
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srirambadisa&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=58a6ff15&title_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph&area=true&radius=8&height=300" alt="Activity Graph" />
-</p>
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=54AEFF)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=54AEFF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=54AEFF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=54AEFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=54AEFF)
 
-<br>
+</div>
 
-<!-- Featured Projects -->
-<h3 align="center">🔥 Featured Projects</h3>
+## 🚀 Featured Work
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/srirambadisa/sriram_big_basket_project">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=srirambadisa&repo=sriram_big_basket_project&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_owner=true" alt="Big Basket Clone" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/srirambadisa/springbootMVCproject">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=srirambadisa&repo=springbootMVCproject&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_owner=true" alt="Spring Boot MVC" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/srirambadisa/springbootRESTproject">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=srirambadisa&repo=springbootRESTproject&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_owner=true" alt="Spring Boot REST" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/srirambadisa/springbootRestCommunication">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=srirambadisa&repo=springbootRestCommunication&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_owner=true" alt="Spring Boot REST Communication" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+| Project | What it demonstrates | Stack |
+| :--- | :--- | :--- |
+| [**Big Basket Clone**](https://github.com/srirambadisa/sriram_big_basket_project) | An e-commerce web experience inspired by Big Basket | JavaScript |
+| [**Spring Boot MVC**](https://github.com/srirambadisa/springbootMVCproject) | MVC application structure with Spring Boot | Java · Spring Boot |
+| [**Spring Boot REST API**](https://github.com/srirambadisa/springbootRESTproject) | RESTful backend development fundamentals | Java · REST |
+| [**REST Communication**](https://github.com/srirambadisa/springbootRestCommunication) | Communication patterns between Spring Boot services | Java · Spring Boot |
 
-<br>
+<div align="center">
 
-<!-- Connect With Me -->
-<h3 align="center">🔗 Connect With Me</h3>
+[![Explore all repositories](https://img.shields.io/badge/Explore%20All%20Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srirambadisa?tab=repositories)
 
-<p align="center">
-  <a href="https://github.com/srirambadisa">
-    <img src="https://img.shields.io/badge/GitHub-srirambadisa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/sriram1938/">
-    <img src="https://img.shields.io/badge/LinkedIn-sriram1938-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/srirambadisa">
-    <img src="https://img.shields.io/badge/Instagram-srirambadisa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:srirambadisa1938@gmail.com">
-    <img src="https://img.shields.io/badge/Email-srirambadisa1938-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/srirambadisa?tab=followers">
-    <img src="https://img.shields.io/github/followers/srirambadisa?style=social" alt="Followers" />
-  </a>
-</p>
+## 📊 GitHub Snapshot
 
-<br>
+<div align="center">
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srirambadisa&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=srirambadisa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="Sriram's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srirambadisa&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Sriram's most used languages" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Wave" />
-</p>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=srirambadisa&bg_color=0D1117&color=C9D1D9&line=2F81F7&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity" alt="Sriram's contribution activity graph" />
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I enjoy meeting developers, exchanging ideas, and building projects that solve real problems.
+
+[![GitHub](https://img.shields.io/badge/GitHub-srirambadisa-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srirambadisa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sriram%20Badisa-0969DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram1938/)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=srirambadisa&style=flat-square&color=0969DA&label=PROFILE+VIEWS)
+
+</div>
+
