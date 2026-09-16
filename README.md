@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sriram Badisa</h1>
-<p align="center"><strong>Full-Stack Developer · MERN · Spring Boot</strong></p>
+<p align="center"><strong>Full-Stack & AI Developer · Prompt Engineer · Agentic Developer</strong></p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+useful+web+experiences;Java+%2B+JavaScript+full-stack+developer;Learning%2C+building%2C+and+improving+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+useful+web+experiences;Full-stack+%2B+AI+developer;Building+with+Codex+%26+Claude;Designing+agentic+developer+workflows)](https://git.io/typing-svg)
 
 ![Location](https://img.shields.io/badge/Hyderabad-India-0969DA?style=flat-square&logo=googlemaps&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-1F6FEB?style=flat-square&logo=codeforces&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI%20%2B%20Full--Stack-1F6FEB?style=flat-square&logo=codeforces&logoColor=white)
 ![Open to](https://img.shields.io/badge/Open%20to-Collaboration-54AEFF?style=flat-square&logo=handshake&logoColor=white)
 
 </div>
@@ -17,6 +17,8 @@
 
 - 🚀 Full-stack developer working across **MERN** and **Spring Boot** ecosystems
 - 🔭 Currently building with **Java, Spring Boot, JavaScript, Node.js, and React**
+- 🤖 Building AI-assisted development workflows with **Codex and Claude**
+- 🧠 Practicing **prompt engineering** and exploring **agentic application development**
 - 🌱 Expanding my skills in **Python, Machine Learning, Rust, and Go**
 - 🤝 Open to meaningful collaborations and interesting engineering challenges
 - 📍 Based in **Hyderabad, India**
@@ -49,6 +51,13 @@
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=54AEFF)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=54AEFF)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=54AEFF)
+
+### AI & Agentic Development
+
+![Codex](https://img.shields.io/badge/OpenAI%20Codex-0D1117?style=for-the-badge&logo=openai&logoColor=54AEFF)
+![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=54AEFF)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge&logo=probot&logoColor=54AEFF)
 
 </div>
 
