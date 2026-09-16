@@ -76,15 +76,17 @@
 
 </div>
 
-## 📊 GitHub Snapshot
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Repositories](https://img.shields.io/badge/Public%20Repositories-12-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srirambadisa?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/srirambadisa?label=Followers&style=for-the-badge&color=1F6FEB&logo=github&logoColor=white)](https://github.com/srirambadisa?tab=followers)
-[![Stars](https://img.shields.io/github/stars/srirambadisa?affiliations=OWNER&style=for-the-badge&color=54AEFF&logo=github&logoColor=white)](https://github.com/srirambadisa?tab=stars)
+[![Followers](https://img.shields.io/github/followers/srirambadisa?label=FOLLOWERS&style=for-the-badge&color=A855F7&labelColor=0D1117&logo=github&logoColor=white)](https://github.com/srirambadisa?tab=followers)
+[![Public Repositories](https://img.shields.io/badge/PUBLIC%20REPOSITORIES-12-A855F7?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white)](https://github.com/srirambadisa?tab=repositories)
+[![View on GitHub](https://img.shields.io/badge/VIEW%20ON%20GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srirambadisa)
 
-[![View contribution activity](https://img.shields.io/badge/View-Contribution%20Activity-0969DA?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/srirambadisa?tab=overview&from=2026-01-01&to=2026-12-31)
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=srirambadisa&hide_border=true&background=0D1117&stroke=30363D&ring=A855F7&fire=A855F7&currStreakNum=A855F7&sideNums=58A6FF&currStreakLabel=A855F7&sideLabels=58A6FF&dates=2DD4BF&card_width=700)](https://git.io/streak-stats)
 
 </div>
 
